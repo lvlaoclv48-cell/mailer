@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+colorama
+pyautogui
+requests
